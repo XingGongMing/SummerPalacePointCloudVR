@@ -69,7 +69,3 @@ sysinfo.txt
 
 # Unity 编辑器个人状态（布局/最近打开等，非项目内容）
 /UserSettings/
-
-# 点云数据不入库（太大，改走 GitHub Release 附件下载）
-/Assets/Arts/PointCloud/YiHeYuan/*.ply
-/Assets/gsplat-unity-vfx/Samples/sample-splat.ply
